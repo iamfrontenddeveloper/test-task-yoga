@@ -1,6 +1,4 @@
 *{
-    /*font-family: 'Myriad Pro','Helvetica Neue','Roboto', sans-serif;
-    font-family: 'Euphoria Script', cursive;*/
 -webkit-box-sizing: border-box;
         box-sizing: border-box;
 }
@@ -486,7 +484,6 @@ input[type="text"], select{
     color: #5b6ceb;
     float: right;
     font-size: 60px;
-    /*quotes: "\00ab" "\00bb";*/
 }
 .testim_wrap p{
     color: #555;
